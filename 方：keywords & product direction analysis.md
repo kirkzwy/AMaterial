@@ -1,6 +1,6 @@
 # 方：keywords & product direction analysis
 
-## High Demand with low competition(Opportunity Score>7)
+## High Demand with low competition(Opportunity Score=7、8)
 
 1. trash bags
 ![](media/15358090951929/15358851898753.jpg)
