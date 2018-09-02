@@ -1,8 +1,6 @@
-# anson-keywords & product direction analysis
+# Kitchen & Dining: keywords & product direction analysis(Anson)
 
 ## *lunch* 
-
-- **Categories**：Kitchen & Dining
 
 ### keyword content
 
