@@ -1,8 +1,6 @@
 # 方：keywords & product direction analysis
 
-## Opportunity Score ＞ 7
-
-### High Demand with low competition
+## High Demand with low competition(Opportunity Score>7)
 
 1. trash bags
 ![](media/15358090951929/15358851898753.jpg)
@@ -27,7 +25,7 @@
 ![](media/15358090951929/15358877590484.jpg)
 **Top10 Rank中有1家review大于500个**
 
-### Medium Demand with low competition
+## Medium Demand with low competition(Opportunity Score>7)
 
 5. clear contact paper
 ![](media/15358090951929/15358111107232.jpg)
@@ -42,45 +40,103 @@
 **Top10 Rank中有0家review大于500个**
 
 
+## Medium Demand with low review  
+- Magnetic hooks
+![](media/15358090951929/15358750031525.jpg)
+![](media/15358090951929/15358750533552.jpg)
+**Top10 Rank中有4家review大于500**
 
-## 工具类
-- hair catcher（drain clog remover/drain snake/tubshroom)
-![](media/15356295744399/15358085789742.jpg)
-![](media/15356295744399/15358088470496.jpg)
+2. Photo Album
+![](media/15358090951929/15358778193158.jpg)
+![](media/15358090951929/15358778346306.jpg)
+**Top10 Rank中有3家review大于500个**
 
+3. photo booth props
+![](media/15358090951929/15358744185485.jpg)
+![](media/15358090951929/15358744408250.jpg)
+**Top10 Rank中有2家review大于500个,1家大于1000**
 
-- air pump(air compressor/pump/air pump for inflatables)
-![](media/15358090951929/15358097219524.jpg)
-![](media/15358090951929/15358098524429.jpg)
+3. paper bags
+![](media/15358090951929/15358734058999.jpg)
+![](media/15358090951929/15358734569921.jpg)
+**Top10 Rank中有0家review大于500个**
 
-### Curtain
-- shower curtain hooks
-![](media/15358090951929/15358101004036.jpg)
-![](media/15358090951929/15358101465485.jpg)
+4. kids beach towel
+![](media/15358090951929/15358714507340.jpg)
+![](media/15358090951929/15358714826932.jpg)
+**Top10 Rank中有2家review大于500个**
 
-**Top10 Rank中有5家review大于500个，2家review大于5000**
+5. Hanger Clips
+![](media/15358090951929/15358105938905.jpg)
+![](media/15358090951929/15358106318517.jpg)
+**Top10 Rank中有0家review大于500个**
+
+- Plate Stand
+![](media/15358090951929/15358748136127.jpg)
+![](media/15358090951929/15358748309893.jpg)
+**Top10 Rank中有1家review大于500**
+
+- Desktop Photo Frame
+![](media/15358090951929/15358755023853.jpg)
+![](media/15358090951929/15358754882440.jpg)
+
+**Top10 Rank中有0家review大于500个**
+
+6. tube rope
+![](media/15358090951929/15358121771692.jpg)
+![](media/15358090951929/15358122071038.jpg)
+**Top10 Rank中有0家review大于500个**
+
+7. Under Shelf Basket
+![](media/15358090951929/15358117216788.jpg)
+![](media/15358090951929/15358117661321.jpg)
+**Top10 Rank中有2家review大于500个**
+
+8. kids apron
+![](media/15358090951929/15358728733568.jpg)
+![](media/15358090951929/15358729033916.jpg)
+**Top10 Rank中有1家review大于500个**
+
+- fairy garden accessories
+![](media/15358090951929/15358742912980.jpg)
+![](media/15358090951929/15358743393320.jpg)
+
+**Top10 Rank中有0家review大于500个**
+
+---
+
+## Opportunity Score:5-6
+
+- shower curtain
+![](media/15358090951929/15358726816363.jpg)
+![](media/15358090951929/15358727197012.jpg)
+**Top10 Rank中有8家review大于500个，5家大于1000** 
 
 - Hangers
 ![](media/15358090951929/15358107904707.jpg)
 ![](media/15358090951929/15358108674167.jpg)
-
 **Top10 Rank中有8家review大于500个,7家大于2000**
 
 - Clothes Hangers
 ![](media/15358090951929/15358104415772.jpg)
 ![](media/15358090951929/15358110109526.jpg)
-
-
 **Top10 Rank中有7家review大于500个,6家大于2000**
 
+- blanket
+![](media/15358090951929/15358126441586.jpg)
+![](media/15358090951929/15358126671440.jpg)
+**Top10 Rank中有9家review大于500个，6家大于2000**
 
+- bathroom carpet
+![](media/15358090951929/15358127413694.jpg)
+![](media/15358090951929/15358128591934.jpg)
+**Top10 Rank中有8家review大于500个，2家大于1000**
 
-- Hanger Clips
-![](media/15358090951929/15358105938905.jpg)
-![](media/15358090951929/15358106318517.jpg)
+- shower curtain hooks
+![](media/15358090951929/15358101004036.jpg)
+![](media/15358090951929/15358101465485.jpg)
 
-**Top10 Rank中有0家review大于500个**
-
+**Top10 Rank中有5家review大于500个，2家review大于5000**
 
 - can opener
 ![](media/15358090951929/15358112214643.jpg)
@@ -88,43 +144,18 @@
 
 **Top10 Rank中有10家review大于500个,有3家大于5000**
 
-- Furniture Pad
-![](media/15358090951929/15358115842451.jpg)
-![](media/15358090951929/15358116148613.jpg)
+- insulated lunch bag
+![](media/15358090951929/15358919817100.jpg)
+![](media/15358090951929/15358920805000.jpg)
 
-**Top10 Rank中有6家review大于500个,有2家大于2000**
+- Foam Ear Plugs
+![](media/15358090951929/15358921463309.jpg)
+![](media/15358090951929/15358922044526.jpg)
 
-- Under Shelf Basket
-![](media/15358090951929/15358117216788.jpg)
-![](media/15358090951929/15358117661321.jpg)
+- clamp
+![](media/15358090951929/15358923840421.jpg)
+![](media/15358090951929/15358924514833.jpg)
 
-**Top10 Rank中有2家review大于500个**
-
-- fish spatula
-![](media/15358090951929/15358118595289.jpg)
-![](media/15358090951929/15358119043937.jpg)
-
-**Top10 Rank中有5家review大于500个,1家大于2000**
-
-- stackable shelf
-![](media/15358090951929/15358120274622.jpg)
-![](media/15358090951929/15358120687087.jpg)
-
-**Top10 Rank中有8家review大于500个,3家大于2000**
-
-- tube rope
-![](media/15358090951929/15358121771692.jpg)
-![](media/15358090951929/15358122071038.jpg)
-
-**Top10 Rank中有0家review大于500个**
-
-## 工具类
-### sheets Set
-- Sheet
-![](media/15358090951929/15358123056344.jpg)
-![](media/15358090951929/15358123356626.jpg)
-
-**Top10 Rank中有10家review大于1000个，7家大于10000**
 
 - Pillowcases
 ![](media/15358090951929/15358124777445.jpg)
@@ -138,23 +169,6 @@
 
 **Top10 Rank中有5家review大于500个，3家等于2000**
 
-- blanket
-![](media/15358090951929/15358126441586.jpg)
-![](media/15358090951929/15358126671440.jpg)
-
-**Top10 Rank中有9家review大于500个，6家大于2000**
-
-- bathroom carpet
-![](media/15358090951929/15358127413694.jpg)
-![](media/15358090951929/15358128591934.jpg)
-
-**Top10 Rank中有8家review大于500个，2家大于1000**
-
-- kids beach towel
-![](media/15358090951929/15358714507340.jpg)
-![](media/15358090951929/15358714826932.jpg)
-
-**Top10 Rank中有2家review大于500个**
 
 - towels
 ![](media/15358090951929/15358716335674.jpg)
@@ -174,42 +188,11 @@
 
 **Top10 Rank中有5家review大于500个，4家大于1000**
 
-- Rug Gripper Pad
-![](media/15358090951929/15358721620531.jpg)
-![](media/15358090951929/15358722012317.jpg)
-
-**Top10 Rank中有6家review大于500个，1家大于1000**
-
-
-- Kitchen Curtains
-![](media/15358090951929/15358723861589.jpg)
-![](media/15358090951929/15358724214104.jpg)
-
-**Top10 Rank中有6家review大于500个，3家大于1000**
-
 - sheer curtains
 ![](media/15358090951929/15358725366007.jpg)
 ![](media/15358090951929/15358725744098.jpg)
 
 **Top10 Rank中有8家review大于500个，4家大于1000**
-
-- shower curtain
-![](media/15358090951929/15358726816363.jpg)
-![](media/15358090951929/15358727197012.jpg)
-
-**Top10 Rank中有8家review大于500个，5家大于1000**
-
-- kids apron
-![](media/15358090951929/15358728733568.jpg)
-![](media/15358090951929/15358729033916.jpg)
-
-**Top10 Rank中有1家review大于500个**
-
-- carafe
-![](media/15358090951929/15358730426326.jpg)
-![](media/15358090951929/15358730705966.jpg)
-
-**Top10 Rank中有2家review大于500个,2家大于1000**
 
 - mug
 ![](media/15358090951929/15358731365060.jpg)
@@ -217,59 +200,11 @@
 
 **Top10 Rank中有6家review大于500个,5家大于5000**
 
-- Food Storage Containers
-![](media/15358090951929/15358732658892.jpg)
-![](media/15358090951929/15358732936649.jpg)
-
-**Top10 Rank中有6家review大于500个,5家大于5000**
-
-- paper bags
-![](media/15358090951929/15358734058999.jpg)
-![](media/15358090951929/15358734569921.jpg)
-
-**Top10 Rank中有0家review大于500个**
-
-- storage bags
-![](media/15358090951929/15358736543373.jpg)
-![](media/15358090951929/15358736822638.jpg)
-
-**Top10 Rank中有6家review大于500个,3家大于5000**
-
-- Laundry bag
-![](media/15358090951929/15358741777080.jpg)
-![](media/15358090951929/15358742016915.jpg)
-
-**Top10 Rank中有5家review大于500个,4家大于1000**
-
-- fairy garden accessories
-![](media/15358090951929/15358742912980.jpg)
-![](media/15358090951929/15358743393320.jpg)
-
-**Top10 Rank中有0家review大于500个**
-
-- photo booth props
-![](media/15358090951929/15358744185485.jpg)
-![](media/15358090951929/15358744408250.jpg)
-
-**Top10 Rank中有2家review大于500个,1家大于1000**
-
 - party tablecloth
 ![](media/15358090951929/15358745461375.jpg)
 ![](media/15358090951929/15358746116106.jpg)
 
 **Top10 Rank中有3家review大于1000**
-
-- Plate Stand
-![](media/15358090951929/15358748136127.jpg)
-![](media/15358090951929/15358748309893.jpg)
-
-**Top10 Rank中有1家review大于500**
-
-- Magnetic hooks
-![](media/15358090951929/15358750031525.jpg)
-![](media/15358090951929/15358750533552.jpg)
-
-**Top10 Rank中有4家review大于500**
 
 - Picture Frame
 ![](media/15358090951929/15358751405691.jpg)
@@ -277,18 +212,6 @@
 
 **Top10 Rank中有4家review大于500个,1家大于1000**
 
-
-- Desktop Photo Frame
-![](media/15358090951929/15358755023853.jpg)
-![](media/15358090951929/15358754882440.jpg)
-
-**Top10 Rank中有0家review大于500个**
-
-- Scented Candle 
-![](media/15358090951929/15358756653266.jpg)
-![](media/15358090951929/15358756776703.jpg)
-
-**Top10 Rank中有7家review大于500个,2家大于1000**
 
 - Shoe Deodorizer
 ![](media/15358090951929/15358758386238.jpg)
@@ -301,19 +224,6 @@
 ![](media/15358090951929/15358762036304.jpg)
 
 **Top10 Rank中有7家review大于500个,6家大于2000**
-
-- USB Fan
-![](media/15358090951929/15358762692495.jpg)
-![](media/15358090951929/15358763926157.jpg)
-
-**Top10 Rank中有5家review大于500个,3家大于3000**
-
-
-- battery operated fan
-![](media/15358090951929/15358766122336.jpg)
-![](media/15358090951929/15358766236180.jpg)
-
-**Top10 Rank中有9家review大于500个,7家大于1000**
 
 - travel neck pillow
 ![](media/15358090951929/15358767929850.jpg)
@@ -328,25 +238,41 @@
 
 **Top10 Rank中有5家review大于500个,4家大于1000**
 
-- plush carpet
-![](media/15358090951929/15358771282034.png)
-![](media/15358090951929/15358771763171.jpg)
-
-**Top10 Rank中有7家review大于500个,5家大于1000**
-
 - small trash can
 ![](media/15358090951929/15358774020064.jpg)
 ![](media/15358090951929/15358774119514.jpg)
 
 **Top10 Rank中有7家review大于500个,2家大于2000**
 
-- Photo Album
-![](media/15358090951929/15358778193158.jpg)
-![](media/15358090951929/15358778346306.jpg)
+- coffee grinder
+![](media/15358090951929/15358894085120.jpg)
+![](media/15358090951929/15358893948642.jpg)
 
-**Top10 Rank中有3家review大于500个**
+- Camping Lantern
+![](media/15358090951929/15358894530819.jpg)
+![](media/15358090951929/15358895142355.jpg)
+
+- Flashlight
+![](media/15358090951929/15358895869017.jpg)
+![](media/15358090951929/15358896740337.jpg)
+
+
+- Knee Pads
+![](media/15358090951929/15358916306357.jpg)
+![](media/15358090951929/15358917496524.jpg)
+
+- Insulated Tumblers
+![](media/15358090951929/15358917905679.jpg)
+![](media/15358090951929/15358918452673.jpg)
+
 
 ---
+
+- plush carpet
+![](media/15358090951929/15358771282034.png)
+![](media/15358090951929/15358771763171.jpg)
+
+**Top10 Rank中有7家review大于500个,5家大于1000**
 
 - lock
 ![](media/15358090951929/15358883416816.jpg)
@@ -360,17 +286,10 @@
 
 **Top10 Rank中有5家review大于500个,2家1000**
 
-- coffee grinder
-![](media/15358090951929/15358894085120.jpg)
-![](media/15358090951929/15358893948642.jpg)
+- Multi-Tool
+![](media/15358090951929/15358919065714.jpg)
+![](media/15358090951929/15358919263484.jpg)
 
-- Camping Lantern
-![](media/15358090951929/15358894530819.jpg)
-![](media/15358090951929/15358895142355.jpg)
-
-- Flashlight
-![](media/15358090951929/15358895869017.jpg)
-![](media/15358090951929/15358896740337.jpg)
 
 - LED Book Light
 ![](media/15358090951929/15358898513017.jpg)
@@ -387,34 +306,99 @@
 - Motion Sensor Light
 ![](media/15358090951929/15358915624733.jpg)
 ![](media/15358090951929/15358915827058.jpg)
-
-- Knee Pads
-![](media/15358090951929/15358916306357.jpg)
-![](media/15358090951929/15358917496524.jpg)
-
-- Insulated Tumblers
-![](media/15358090951929/15358917905679.jpg)
-![](media/15358090951929/15358918452673.jpg)
-
-- Multi-Tool
-![](media/15358090951929/15358919065714.jpg)
-![](media/15358090951929/15358919263484.jpg)
-
-- insulated lunch bag
-![](media/15358090951929/15358919817100.jpg)
-![](media/15358090951929/15358920805000.jpg)
-
-- Foam Ear Plugs
-![](media/15358090951929/15358921463309.jpg)
-![](media/15358090951929/15358922044526.jpg)
-
 - soap dipenser
 ![](media/15358090951929/15358922377036.jpg)
 ![](media/15358090951929/15358923237521.jpg)
 
-- clamp
-![](media/15358090951929/15358923840421.jpg)
-![](media/15358090951929/15358924514833.jpg)
+- battery operated fan
+![](media/15358090951929/15358766122336.jpg)
+![](media/15358090951929/15358766236180.jpg)
+
+**Top10 Rank中有9家review大于500个,7家大于1000**
+
+1. carafe
+![](media/15358090951929/15358730426326.jpg)
+![](media/15358090951929/15358730705966.jpg)
+**Top10 Rank中有2家review大于500个,2家大于1000**
+
+- hair catcher（drain clog remover/drain snake/tubshroom)
+![](media/15356295744399/15358085789742.jpg)
+![](media/15356295744399/15358088470496.jpg)
+
+
+- air pump(air compressor/pump/air pump for inflatables)
+![](media/15358090951929/15358097219524.jpg)
+![](media/15358090951929/15358098524429.jpg)
+
+- Furniture Pad
+![](media/15358090951929/15358115842451.jpg)
+![](media/15358090951929/15358116148613.jpg)
+
+**Top10 Rank中有6家review大于500个,有2家大于2000**
+
+- fish spatula
+![](media/15358090951929/15358118595289.jpg)
+![](media/15358090951929/15358119043937.jpg)
+
+**Top10 Rank中有5家review大于500个,1家大于2000**
+
+- stackable shelf
+![](media/15358090951929/15358120274622.jpg)
+![](media/15358090951929/15358120687087.jpg)
+
+**Top10 Rank中有8家review大于500个,3家大于2000**
+
+- USB Fan
+![](media/15358090951929/15358762692495.jpg)
+![](media/15358090951929/15358763926157.jpg)
+
+**Top10 Rank中有5家review大于500个,3家大于3000**
+
+- Sheet
+![](media/15358090951929/15358123056344.jpg)
+![](media/15358090951929/15358123356626.jpg)
+
+**Top10 Rank中有10家review大于1000个**
+
+- Rug Gripper Pad
+![](media/15358090951929/15358721620531.jpg)
+![](media/15358090951929/15358722012317.jpg)
+
+**Top10 Rank中有6家review大于500个，1家大于1000**
+
+
+- Kitchen Curtains
+![](media/15358090951929/15358723861589.jpg)
+![](media/15358090951929/15358724214104.jpg)
+
+**Top10 Rank中有6家review大于500个，3家大于1000**
+
+
+
+- Food Storage Containers
+![](media/15358090951929/15358732658892.jpg)
+![](media/15358090951929/15358732936649.jpg)
+**Top10 Rank中有6家review大于500个,5家大于5000**
+
+
+- storage bags
+![](media/15358090951929/15358736543373.jpg)
+![](media/15358090951929/15358736822638.jpg)
+
+**Top10 Rank中有6家review大于500个,3家大于5000**
+
+- Laundry bag
+![](media/15358090951929/15358741777080.jpg)
+![](media/15358090951929/15358742016915.jpg)
+
+**Top10 Rank中有5家review大于500个,4家大于1000**
+
+
+- Scented Candle 
+![](media/15358090951929/15358756653266.jpg)
+![](media/15358090951929/15358756776703.jpg)
+
+**Top10 Rank中有7家review大于500个,2家大于1000**
 
 - Moving Straps
 ![](media/15358090951929/15358925295839.jpg)
