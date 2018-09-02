@@ -47,8 +47,6 @@
 
 ## *coffee* 
 
-- **Categories**：Kitchen & Dining
-
 ### keyword content
 
 - Coffee Dripper
@@ -200,8 +198,6 @@
 ![](media/15356295744399/15357867530421.jpg)
 
 ## *egg cooker* 
-
-- **Categories**：Kitchen & Dining
 
 ### keyword content
 - egg cooker
