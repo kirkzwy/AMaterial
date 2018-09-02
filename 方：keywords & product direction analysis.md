@@ -1,4 +1,4 @@
-# 方：keywords & product direction analysis
+# Home&kitchen:keywords & product direction analysis(方）
 
 ## High Demand with low competition(Opportunity Score=7、8)
 
