@@ -1,5 +1,33 @@
 # junglescout 选品
 
+## 速记选品灵感
+
+- 月球灯 moon light
+![](media/15361142323488.jpg)
+![](media/15361142012133.jpg)
+
+- 月球灯 moon lamp
+
+![](media/15361145038664.jpg)
+![](media/15361144235569.jpg)
+
+- 烧烤棒 roasting sticks、
+![](media/15361131705041.jpg)
+![](media/15361131175912.jpg)
+
+- 棉花糖烧烤棒 marshmallow roasting sticks
+![](media/15361137538864.jpg)
+![](media/15361127024108.jpg)
+
+- 竹制插肉签 bamboo skewers
+![](media/15361137119255.jpg)
+![](media/15361136354744.jpg)
+
+- 竹签 bamboo sticks
+![](media/15361139859894.jpg)
+![](media/15361139565321.jpg)
+
+
 ## low-price(10-20) & middle-demand above(A300)
 
 ### filters
