@@ -27,6 +27,11 @@
 ![](media/15361139859894.jpg)
 ![](media/15361139565321.jpg)
 
+- 桌布夹子 tablecloth clips
+
+![](media/15361441359305.jpg)
+![](media/15361441791781.jpg)
+
 
 ## low-price(10-20) & middle-demand above(A300)
 
