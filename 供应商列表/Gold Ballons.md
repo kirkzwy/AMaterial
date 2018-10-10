@@ -1,4 +1,20 @@
-# Gold Ballons, Confetti Balloons
+# Confetti Balloons/Gold Ballons
+## 12寸亮片气球的前10销量listing
+### LQS：7-8
+https://www.amazon.com/SINKSONS-Confetti-Balloons-Decorations-Proposal/dp/B0757DCGJZ/ref=sr_1_5?ie=UTF8&qid=1539134974&sr=8-5&keywords=confetti+balloons
+https://www.amazon.com/Bright-Tricks-Birthdays-Decorations-Engagment/dp/B078Z6YBBQ/ref=sr_1_19?ie=UTF8&qid=1539134974&sr=8-19&keywords=confetti+balloons
+### LQS：4-5
+https://www.amazon.com/Decopom-Confetti-Balloons-Curling-Premium/dp/B0758BWTPB/ref=sr_1_4?ie=UTF8&qid=1539134974&sr=8-4&keywords=confetti+balloons
+
+1. 亮片集中在底部【好评给出的建议：Before inflating the balloon, Drop two drops of water on the balloon and rub the confetti repeatedly, the Confetti dust will be attached to the inner wall of the balloon】
+2. 气球会漏气
+3. 没有图片透亮，是黄黄的
+4. 亮片很少很少
+5. 气球容易爆炸
+6. 能否使用氦气或氢气
+7. 是否有配细绳？【the string is not included 】
+8. 大孩子后能否浮起来（家用氦气罐）
+9. 亮片是先装好的吗
 
 ![](media/15367493261921.jpg)
 
