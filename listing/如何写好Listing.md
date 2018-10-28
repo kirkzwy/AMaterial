@@ -1,12 +1,19 @@
 # Listing
-如何写好listing：https://zhuanlan.zhihu.com/p/30814703
+## 参考资料
+### 1.如何写好listing：https://zhuanlan.zhihu.com/p/30814703
+
+### 2.工具：
+- Keyword Tool（免费，https://keywordtool.io），根据你输入的关键词来完成自己的分析和筛选工作，并成数百个相关的长尾关键词。该工具可分析挖据的平台有Google、Bing、Amazon、YouTube、eBay、appstore。
+- Seocha(免费：http://www.seochat.com) ，这款关键词工具比较强大，能抓取Google、Bing、Amazon、YouTube 的关键词数据，提取长尾关键词，在优化布局listing页面关键词的时候，可以作为参考。注意：主要参考Amazon的数据。
+- PingPong(免费，https://www.pingpongx.com?channel=wangsw) ，这里不得不提一下这家国内的跨境支付收款工具，能帮助中国的卖家迅速收回平台货款，T+0到账，费率最高1%封顶，并且最重要的没有任何汇损，很多人从P卡和WF卡切换过来是因为一年下来可以节省很多汇率损耗
+### 3.
 
 **确定品牌是否注册：http://www.uspto.gov/trademarks/index.jsp （美国商标局）**
 
 
-- funny party
-![](media/15391782587961.jpg）
-- 
+![](media/15402723400532.jpg)
+
+https://sellercentral.amazon.com/listing/download
 
 
 ## Coffee Cups
