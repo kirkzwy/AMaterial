@@ -32,16 +32,27 @@
 Title: CMS Design Studio Handmade **1st First** **Birthday Cake Topper Decoration** - One - Made in USA with **Double Sided Glitter** Stock (**Gold**)
 
 ## Bullet Point
-### SAFE & GLITTER NEVER FALLOUT
-Premium quality card-stock glitter paper,  won’t leave a residue on the cake or in your hands. The stick is made of a firm white paper material and it will fit most size cakes. Total height with stick:…
+### DOUBLE SIDE GLITTER  
+The Gold Cake Topper is already assembled like sandwiching the sticks between two piece of glitter paper stock. GLUE INVISIBLE from both side.
 
-### SIZE: 
-Letter is W5.7inch, H2.2inch, paper stick is
+### SAFE & NO RESIDUE
+Premium quality card-stock glitter paper,  won’t leave a residue on the cake or in your hands even smash it. The stick is made of a firm white paper material. Echo friendly & safe to touch your cake.
 
-### ASSEMBLY
+### SIZE 
+The cake topper lettering is 5.7inches wide, 2.2inches tall. The picks are 3.5 inches long. 	Ideal size for an 8" round cake or a smash cake and it will fit most size cakes.
+
 ### APPLICATION
-### DOUBLE SIDE & ASSEMBLY
+It makes an ADORABLE cake topper and can also be used as a photo prop or party decor. It's a beautiful light champagne gold that will perfectly suitable for any theme of the party you’re planning. 
+
+### DELICATE AND LIGHT WEIGHT 
+Beautifully made, the topper is lightweight and elegantly designed so it stands up and won’t topple over on your birthday cake.
 
 
+## Product Description
+This gold cake topper is designed specially for cakes decoration, especially for one year birthday cakes. The character toppers are made with glitter paperstock without shedding. It's safe and non-toxic for insert into cake. It also can be used as a photo prop for your first Wedding anniversary.
 
+Features 
+- Color: Gold
+- Quantity: 1 Pcs Double-side Cake Topper - Size:  5.7inches wide, 2.2inches tall. The picks are 3.5 inches long
+- Material: Glittered cardstock with food safe paper stick
 
