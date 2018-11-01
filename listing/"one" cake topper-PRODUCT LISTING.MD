@@ -1,28 +1,22 @@
 # "one" caketopper-PRODUCT LISTING
 ## Product Information
-- Size: Letter-W5.7inch,H2.2inch
+- Size: Letter-W5.7inch,H2.2inch, paper stick-
 - category: Toys & Games > Party Supplies > Cake & Cupcake Toppers >Cake Toppers > Cupcake Toppers
 
 ## keywords
 - **核心关键词：one cake topper**
 - cake toppers
-- cake topper 1st birthday
-- cake topper numbers
-- cake topper decoration
-- cake topper one
-- cake topper gold
-- one cake topper gold
-- birthday cake topper
-- birthday cake topper gold
+- 1st/one/numbers
+- birthday
+- decoration(s)
+- gold
+
 - first birthday cake topper(girl/boy)
 - first birthday decorations
 
-![](media/15397521884670.jpg)
-![](media/15397526411628.jpg)
+![](media/15397809479071.jpg)
 
 
-### 搜索栏+左侧类目栏
-![](media/15397502766992.jpg)
 
 ## 标题|Product Title
 
@@ -37,8 +31,17 @@
 **[Best Seller]1st in 'cake toppers'**
 Title: CMS Design Studio Handmade **1st First** **Birthday Cake Topper Decoration** - One - Made in USA with **Double Sided Glitter** Stock (**Gold**)
 
-![](media/15397809479071.jpg)
-
 ## Bullet Point
+### SAFE & GLITTER NEVER FALLOUT
+Premium quality card-stock glitter paper,  won’t leave a residue on the cake or in your hands. The stick is made of a firm white paper material and it will fit most size cakes. Total height with stick:…
+
+### SIZE: 
+Letter is W5.7inch, H2.2inch, paper stick is
+
+### ASSEMBLY
+### APPLICATION
+### DOUBLE SIDE & ASSEMBLY
+
+
 
 

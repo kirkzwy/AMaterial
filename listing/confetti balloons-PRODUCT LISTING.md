@@ -3,23 +3,21 @@
 ## KeyWord 
 ### JS & Sonar - Keyword搜索热度排序
 #### 高热度(体现在标题和补充关键词中）
-- birthday decorations
+- balloon
 - confetti balloons
 - gold balloons
+- birthday decorations
 - birthday balllons
-- balloon
 - birthday party decorations
 - clear balloons
 
 #### 次高热度（体现在bullet point和description中）
-- balloons for party
-- globos para flestas
+- globos para fiestas
 - latex balloons
+- party balloons
 - metallic balloons
-- gold confetti balloons
 - gold confetti
 - helium balloons
-- party balloons
 - giant balloons
 - qualatex balloons
 - baby shower balloons 
@@ -42,39 +40,19 @@
 - wedding balloons
 - giant balloons
 
+### 主要关键词
+balloon/balloons/globos para flestas/bubble
+gold/rose gold/assorted/glitter/blush/foil
+confetti/clear/transparent/metallic/metalled/Latex/helium/
+round/big/giant/large/jumbo/12 inches/12inch/36
+party/decorations/supplies/birthday/shower/wedding/baby shower/graduation
+baby girl/baby boy/kids
+
 ### 小词/长尾词
 【筛选依据：1）JS-Keyword精确匹配搜索量前600个  2）BestSeller in Balloons<Toy&Game  3)'Confetti Balloons'搜索结果页首页】
 每天有一定搜索量（不低于300次/每月）
 包含高频词（组成、或变序）
 别家没有在用（没有竞争，能出现在该词的搜索结果首页）
-
-balloons confetti
-wedding balloons decoration
-latex balloons 12 inch
-balloons gold
-gold balloon【有2家在用】
-12 inch balloons
-rose balloons
-assorted balloons
-
-#### balloons相关
-baby shower balloons 2082,0家，常用baby shower/baby shower decorations
-wedding balloons 1620,1家，常用wedding(s)/wedding decorations
-glitter balloons 1440,3家，常用confetti/glitter party decorations/blush
-round balloons 1410，2-3家，常用round balloon/round latex balloons/round X balloons
-clear balloons transparent 1225,0家，常用Clear Latex Balloons Transparent Ball/Clear transparent balloons
-clear balloons with gold confetti 出现在clear balloons的搜索框第2位，但JS的精确匹配很低
-Jumbo balloons 925，1家，常用Jumbo/Jumbo Party Balloons/Jumbo Latex Balloons
-balloons with confetti 
-
-
-- 36寸五彩纸屑气球
-large balloons - 2022,0家，常用Big Balloon(s)/Giant Latex 
-Balloons/Large Thick Balloons
-
-
-
-## Bullet Point
 
 ## Category:Toys & Games › Party Supplies › Balloons
 ## KEYWORD
@@ -105,12 +83,10 @@ Balloons/Large Thick Balloons
 ### Sonar（is powered by SELLICS, the leading Amazon optimization software. Visit WWW.SELLICS.COM to start 14 day FREE TRIAL!）
 根据search volume排序筛选出关键词：
 
-
-
 #### 根关键词：Balloons
 同义词：
 - Balloon 
-- Qualatex
+- Qualatex 品牌
 - globos 
 - latex balloons 
 - qualatex balloons 
@@ -185,41 +161,55 @@ Wedding, Birthday, Proposal**
 
 ### Title版本二（长尾词+核心关键词，服务于搜索引擎)
 
-balloons confetti
-wedding balloons decoration
-latex balloons 12 inch
-balloons gold
-gold balloon【有2家在用】
-12 inch balloons
-rose balloons
-assorted balloons
-clear latex balloons
-birthday balloons for girls 
-**clear confetti balloons **
-
-Clear Latex Balloons 12 inch Transparent Balloons with Gold Confetti nside for
-
-Clear Confetti Balloons Latex Balloons 12 inch with Gold confetti12 Inch  Confetti Re-filled
-
-Gold Confetti Balloons, 12 Inches Clear Balloons, Pack of 20, for Party Decoration, Wedding, Birthday and Proposal
+Gold Confetti Balloons, 12 Inches Transparent Latex Balloon with Confetti Dots Pre-filled for Birthday,Baby Shower,Wedding,Graduation Party Supplies & Decorations(Pack of 20)
 
 
-## Bullet Point常用内容
-- how to use/uses/useful tip/easy to use（充气/用法：The balloons are supplied flat packed and can be filled with air or helium）
-- measurement/Size/Dimensions [7 cm / 2.76 inches approx. (non - inflated), 30.5 cm / 12 inches approx. (inflated)]or[Inflated size: approx. 25.5 cm/ 10 inch in length after inflating, and the dimensions are for reference only, the confetti is 1.5 cm/ 0.6 inch in diameter]
-- popular decor
-- beautiful confetti
-- Excitement
-- Durable
-- Detail
-- Guarrantee
-- Material（50% Latex, 50% Paper）
-- count/Quantity
-- situation/Function/Wide applications
-- take care
-- confetti filled balloons/Pre-filled confetti/Prefilled with Confetti
-- beautiful color
+## Bullet Point
+### 常用内容
+1. how to use/uses/useful tip/easy to use（充气/用法：The balloons are supplied flat packed and can be filled with air or helium）
+2. measurement/Size/Dimensions [7 cm / 2.76 inches approx. (non - inflated), 30.5 cm / 12 inches approx. (inflated)]or[Inflated size: approx. 25.5 cm/ 10 inch in length after inflating, and the dimensions are for reference only, the confetti is 1.5 cm/ 0.6 inch in diameter] 
+3. count/Quantity
+4. Material（50% Latex, 50% Paper）/Durable/beautiful color/Detail
+5. situation/Function/Wide applications/popular decor/Excitement
+6. confetti filled balloons/Pre-filled confetti/Prefilled with Confetti/beautiful confetti
+7. take care
 
+### Bullet Point选用内容(关键短语全大写，后面全小写）
+- **WIDELY USE** as party decoration for the tables at a wedding or graduation, or a romantic setting for a proposal. It will certainly brighten up any room or outdoor activities. 
+
+- **EACH BALLOONS PRE-FILLED** with 1 inch diameter confetti. We use gold foil confetti rather than the paper confetti, so it will stick to the balloon much more easily.
+
+- **20 PCS 12" CLEAR BALLOONS** in a package. Inflatable diameter is approx. 12 inches. Made with latex and paper. The bigger you blow it up, the more clear it will be.
+
+- **USEFUL TIPS**: Before inflating the balloon, spray a little bit of water into the balloon, so that the moisture helps the pieces of confetti stick to the side of the balloon. Gently rub the inflated balloon with towel/carpet/hair will also help the confetti stick to the balloon.
+
+- **HELIUM OR AIR SUITABLE**: High quality helium and inflating the balloons to the full size will make it float for 8 hours(though not beyond, because they will pop!). Don’t forget to fasten the balloon tightly!
+
+## Description
+Gold Confetti Balloons are filled with Gold Foil Confetti. The Confetti Party Supplies light up the room, wall, tables, backyard, and driveway for your party.
+
+**Product Features**
+
+- Material: latex&paper
+- Count: 20 Pcs
+- Color: transparent&gold
+- Product size: 5" long and 2.5" wide
+
+**HOW TO USE**
+As the gold confetti is heavier than the helium, will naturally moves toward the direction of gravity. So, before inflating the balloon, spray a little bit of water into the balloon and rub the confetti with your hands repeatedly to distribute them uniform inside the balloon, so that the moisture helps the pieces of gold confetti stick to the balloon.
+
+
+**Warning**
+
+- Choking Hazard: Children under 8 yrs can choke or suffocate on uninflated or broken balloons. Adult supervision required. Keep uninflated balloons from children. Discard broken balloons at once.
+- This balloon contains latex which may cause allergic reactions.
+- Use a pump to inflate a balloon. Keep balloons away from eyes and face , as the bursting of a balloon may cause injury. 
+- Balloons are Inflammable. Do NOT bring them near fire.
+
+## Product Warranty
+
+
+---
 
 ## 关于气球使用的Reviews
 Beautiful balloons. Some tips....
